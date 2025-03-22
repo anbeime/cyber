@@ -1,0 +1,11 @@
+// 新增storage初始化配置
+{
+  "usingComponents": {},
+  "globalStyle": {
+    "navigationBarTitleText": "赛博烧香"
+  },
+  // 新增storage配置
+  "storage": {
+    "strategy": "sync" // 强制同步存储策略
+  }
+}
